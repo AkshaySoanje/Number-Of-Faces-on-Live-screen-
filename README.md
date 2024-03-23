@@ -12,20 +12,22 @@ And many more...
 Installation
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/your-username/your-repository.git
+
+
+
 Install the required dependencies:
 
-bash
-Copy code
+
 pip install opencv-python numpy
+
+
 Usage
 Run the face_detection.py script:
-
-bash
-Copy code
 python face_detection.py
+
+
 Press q to exit the program.
 
 Credits
